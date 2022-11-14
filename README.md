@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidBagiryan
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++ from Yandex
+- 👀 I’m interested in C++ and C#
+- 🌱 I’m currently learning C++ and .NET C#
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: telegram - @LetynnHitsher, gmail - letynnchick@gmail.com
 
